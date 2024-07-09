@@ -1,0 +1,1 @@
+This project shows a simple vizualization of Nigeria's population distribution by gender in 2022. Project is done using python programming language and a bar graph is plotted for its visualization. For information on codes view full project. 
